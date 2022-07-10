@@ -1,7 +1,6 @@
 Animals – Web Page
 (exercise one "EX1")
 Authored by : Mohammad Khayyo
-ID : 211558895
 URL Cpanel : mihmadkh.mysoft.jce.ac.il/ex1/
 =============================================== last question in exercise (5)  ========================================
 :שאלה 5 סעיף 1
